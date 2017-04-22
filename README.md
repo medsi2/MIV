@@ -6,7 +6,7 @@ Supply: 50 Billion
 RPCPORT: 6207
 PORT: 6208
 Maturity: 20 Blocks
-PoS: 7% Yearly
+PoS: 10% Yearly
 Min Stake Age: 2 Hours
 Max Stake Age: Unlimited
 
